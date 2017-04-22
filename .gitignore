@@ -1,0 +1,4 @@
+/source/Promise/obj/Debug/netcoreapp1.1/*.cache
+/source/Test.Unit/obj/Debug/netcoreapp1.1/*.cache
+/source/Promise/bin/Debug/netcoreapp1.1/*.dll
+*.dll

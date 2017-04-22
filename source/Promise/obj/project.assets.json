@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DEV\\Playground\\Promises\\Promise\\PromiseSharp.csproj",
+      "projectUniqueName": "C:\\DEV\\Projects\\PromiseSharp\\source\\Promise\\PromiseSharp.csproj",
       "projectName": "PromiseSharp",
-      "projectPath": "C:\\DEV\\Playground\\Promises\\Promise\\PromiseSharp.csproj",
-      "outputPath": "C:\\DEV\\Playground\\Promises\\Promise\\obj\\",
+      "projectPath": "C:\\DEV\\Projects\\PromiseSharp\\source\\Promise\\PromiseSharp.csproj",
+      "outputPath": "C:\\DEV\\Projects\\PromiseSharp\\source\\Promise\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

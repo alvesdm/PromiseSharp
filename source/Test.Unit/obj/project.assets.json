@@ -2820,7 +2820,7 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "PromiseSharp/1.0.0": {
+      "alvesdm.PromiseSharp/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v1.1",
         "dependencies": {
@@ -8527,7 +8527,7 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "PromiseSharp/1.0.0": {
+    "alvesdm.PromiseSharp/1.0.0": {
       "type": "project",
       "path": "../Promise/PromiseSharp.csproj",
       "msbuildProject": "../Promise/PromiseSharp.csproj"
@@ -8539,7 +8539,7 @@
       "MSTest.TestFramework >= 1.1.11",
       "Microsoft.NET.Test.Sdk >= 15.0.0",
       "Microsoft.NETCore.App >= 1.1.1",
-      "PromiseSharp >= 1.0.0"
+      "alvesdm.PromiseSharp >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -8548,10 +8548,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DEV\\Playground\\Promises\\Test.Unit\\Test.Unit.csproj",
+      "projectUniqueName": "C:\\DEV\\Projects\\PromiseSharp\\source\\Test.Unit\\Test.Unit.csproj",
       "projectName": "Test.Unit",
-      "projectPath": "C:\\DEV\\Playground\\Promises\\Test.Unit\\Test.Unit.csproj",
-      "outputPath": "C:\\DEV\\Playground\\Promises\\Test.Unit\\obj\\",
+      "projectPath": "C:\\DEV\\Projects\\PromiseSharp\\source\\Test.Unit\\Test.Unit.csproj",
+      "outputPath": "C:\\DEV\\Projects\\PromiseSharp\\source\\Test.Unit\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -8559,8 +8559,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\DEV\\Playground\\Promises\\Promise\\PromiseSharp.csproj": {
-              "projectPath": "C:\\DEV\\Playground\\Promises\\Promise\\PromiseSharp.csproj"
+            "C:\\DEV\\Projects\\PromiseSharp\\source\\Promise\\PromiseSharp.csproj": {
+              "projectPath": "C:\\DEV\\Projects\\PromiseSharp\\source\\Promise\\PromiseSharp.csproj"
             }
           }
         }

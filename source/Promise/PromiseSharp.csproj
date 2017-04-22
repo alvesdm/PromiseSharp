@@ -7,6 +7,7 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Company />
     <Description>A C# Promise package for .net core.</Description>
+    <PackageId>alvesdm.PromiseSharp</PackageId>
   </PropertyGroup>
 
 </Project>
