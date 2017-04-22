@@ -1,4 +1,4 @@
-AppVeyor: [![Build status](https://ci.appveyor.com/api/projects/status/6ci067uqifvds6ho?svg=true)](https://ci.appveyor.com/project/alvesdm/promisesharp)
+[![Build status](https://ci.appveyor.com/api/projects/status/6ci067uqifvds6ho?svg=true)](https://ci.appveyor.com/project/alvesdm/promisesharp)
 
 # PromiseSharp
 A C# Promise package for .net core.
