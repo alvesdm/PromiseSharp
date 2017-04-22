@@ -2,7 +2,8 @@
 A C# Promise package for .net core.
 
 How to use it?
-```
+
+```csharp
 await new Promise((promise) =>
 {
     if (something)
@@ -16,3 +17,7 @@ await new Promise((promise) =>
 .Always(() => { Console.WriteLine("I don't care whether we did it or not...Move on!"); }) // HIT
 .Fire();
 ```
+
+# License
+
+Code released under the MIT license.
