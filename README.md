@@ -2,7 +2,7 @@
 A C# Promise package for .net core.
 
 How to use it?
-
+```
 await new Promise((promise) =>
 {
     if (something)
@@ -15,3 +15,4 @@ await new Promise((promise) =>
 .Fail((e) => { Console.WriteLine($"Well.. nice we did it, otherwhise we'd get this error:{e.Message}"); })
 .Always(() => { Console.WriteLine("I don't care whether we did it or not...Move on!"); }) // HIT
 .Fire();
+```
