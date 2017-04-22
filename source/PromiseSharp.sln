@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromiseSharp", "Promise\PromiseSharp.csproj", "{3D2324C5-9E67-45C2-8CF5-533F9A67E83E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Unit", "Test.Unit\Test.Unit.csproj", "{236AB108-6A92-4B37-BCCD-FA96136A70E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D2324C5-9E67-45C2-8CF5-533F9A67E83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2324C5-9E67-45C2-8CF5-533F9A67E83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2324C5-9E67-45C2-8CF5-533F9A67E83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2324C5-9E67-45C2-8CF5-533F9A67E83E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{236AB108-6A92-4B37-BCCD-FA96136A70E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236AB108-6A92-4B37-BCCD-FA96136A70E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236AB108-6A92-4B37-BCCD-FA96136A70E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236AB108-6A92-4B37-BCCD-FA96136A70E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

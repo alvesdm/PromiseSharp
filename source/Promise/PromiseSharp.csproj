@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <AssemblyName>PromiseSharp</AssemblyName>
+    <RootNamespace>PromiseSharp</RootNamespace>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Company />
+    <Description>A C# Promise package for .net core.</Description>
+  </PropertyGroup>
+
+</Project>
