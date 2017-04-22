@@ -8,7 +8,7 @@ await new Promise((promise) =>
     if (something)
         promise.Resolve();
     else
-        promise.Reject();
+        promise.Reject(new Exception("Bangg!!!"));
 })
 .Then(() => { Console.WriteLine("Nice we..."); }) // HIT
 .Then(() => { Console.WriteLine("... did it!!!"); }) // HIT
