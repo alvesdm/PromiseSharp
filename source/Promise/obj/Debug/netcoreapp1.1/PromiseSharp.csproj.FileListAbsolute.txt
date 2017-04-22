@@ -1,6 +1,0 @@
-C:\DEV\Playground\Promises\Promise\bin\Debug\netcoreapp1.1\PromiseSharp.deps.json
-C:\DEV\Playground\Promises\Promise\bin\Debug\netcoreapp1.1\PromiseSharp.dll
-C:\DEV\Playground\Promises\Promise\bin\Debug\netcoreapp1.1\PromiseSharp.pdb
-C:\DEV\Playground\Promises\Promise\obj\Debug\netcoreapp1.1\PromiseSharp.AssemblyInfo.cs
-C:\DEV\Playground\Promises\Promise\obj\Debug\netcoreapp1.1\PromiseSharp.dll
-C:\DEV\Playground\Promises\Promise\obj\Debug\netcoreapp1.1\PromiseSharp.pdb
